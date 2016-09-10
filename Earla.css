@@ -1,0 +1,64 @@
+body{
+	background-color:gray;
+	border: double;
+}
+img{
+	background-position:left top;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:khaki;
+}
+
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}	
+
+
+#m{
+	background-position: right top;
+}
+
+
+#l{
+	position: left;
+}
+h2{
+    color: maroon;
+}
+h3{
+    color: ivory;
+}
+
+h3.intro{
+    color: antiquewhite;
+}
+
+h1{
+	text-align: center;
+	color: palevioletred;
+	text-align: center;
+	
+}
+
+h5{
+	text-align: center;
+}
